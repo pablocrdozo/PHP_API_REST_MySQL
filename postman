@@ -1,5 +1,6 @@
 http://localhost/PHP_API_REST_MySQL/auth
 
+Body - raw
 {
     "usuario" : "usuario1@gmail.com",
     "password" : "123456"
