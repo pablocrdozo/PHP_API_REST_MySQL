@@ -66,6 +66,11 @@ class conexion{
         }
     }
 
+    //encriptar
+    protected function encriptar($string){
+        return md5($string);
+    }
+
 }
 
 ?>
